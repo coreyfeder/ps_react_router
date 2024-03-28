@@ -1,0 +1,8 @@
+.box3 {
+    width: 100%;
+    background-color: rgb(108, 17, 17);
+    flex: 1;
+    color: white;
+    text-align: center;
+    align-content: center;
+}

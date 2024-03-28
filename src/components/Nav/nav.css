@@ -1,0 +1,14 @@
+nav {
+    background-color: darkseagreen;
+    height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex: 0;
+}
+
+nav a {
+    background-color: darkolivegreen;
+    padding: 10px;
+    color: aliceblue;
+}

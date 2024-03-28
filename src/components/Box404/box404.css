@@ -1,0 +1,12 @@
+.box404 {
+    height: 100vh;
+    width: 100vw;
+    background-color: gray;
+    flex: 1;
+    color: silver;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
